@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DistributeServer", "DistributeServer.vcproj", "{60DBCF97-109F-4E1E-A98C-D9C7C355AF2E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{60DBCF97-109F-4E1E-A98C-D9C7C355AF2E}.Debug.ActiveCfg = Release|Win32
+		{60DBCF97-109F-4E1E-A98C-D9C7C355AF2E}.Debug.Build.0 = Release|Win32
+		{60DBCF97-109F-4E1E-A98C-D9C7C355AF2E}.Release.ActiveCfg = Release|Win32
+		{60DBCF97-109F-4E1E-A98C-D9C7C355AF2E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

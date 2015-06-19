@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Launcher", "MHAutoPatch.vcproj", "{49242084-4EE3-4310-92CB-865242348105}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug_Patch = Debug_Patch
+		Release = Release
+		Release_Patch = Release_Patch
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{49242084-4EE3-4310-92CB-865242348105}.Debug.ActiveCfg = Debug|Win32
+		{49242084-4EE3-4310-92CB-865242348105}.Debug.Build.0 = Debug|Win32
+		{49242084-4EE3-4310-92CB-865242348105}.Debug_Patch.ActiveCfg = Debug_Patch|Win32
+		{49242084-4EE3-4310-92CB-865242348105}.Debug_Patch.Build.0 = Debug_Patch|Win32
+		{49242084-4EE3-4310-92CB-865242348105}.Release.ActiveCfg = Release|Win32
+		{49242084-4EE3-4310-92CB-865242348105}.Release.Build.0 = Release|Win32
+		{49242084-4EE3-4310-92CB-865242348105}.Release_Patch.ActiveCfg = Release_Patch|Win32
+		{49242084-4EE3-4310-92CB-865242348105}.Release_Patch.Build.0 = Release_Patch|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
